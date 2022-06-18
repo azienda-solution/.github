@@ -1,3 +1,6 @@
+![az-removebg-preview](https://user-images.githubusercontent.com/47224557/174450224-6a13a70e-e341-479e-8182-6d631e92f21f.png)
+
+
 # Welcome to the Azienda Solution organization
 
 Azienda is a group of developers who provide you with a set of services and solutions to optimize your business.
@@ -6,14 +9,18 @@ Azienda is a group of developers who provide you with a set of services and solu
 
 # Stock management application - From customers
 https://www.youtube.com/watch?v=9zvMDAdPNJE&feature=youtu.be
+![0](https://user-images.githubusercontent.com/47224557/174450010-deb0c008-13fb-4de3-bcc0-ec6fb4ab537c.jpg)
+
 
 # Staff management software
 https://www.youtube.com/watch?v=pRy9CcBXKHI&feature=youtu.be
+![erp-3](https://user-images.githubusercontent.com/47224557/174450212-7c6c94a7-cbf4-4cea-a7d0-5f0688feac0b.png)
+
 
 # Employee task management app
 https://www.youtube.com/watch?v=pRy9CcBXKHI&feature=youtu.be
 
-[![Alt text](https://www.youtube.com/watch?v=VID)](https://www.youtube.com/watch?v=pRy9CcBXKHI&feature=youtu.be)
+![maxresdefault](https://user-images.githubusercontent.com/47224557/174449930-d2465b58-fd62-41cd-8225-738b860e3be9.jpg)
 
 
 # School Management Application
@@ -21,6 +28,10 @@ Features:
 - Student management 
 - User management 
 - School management, Payment invoices, Teacher classes
+
+
+![Solutions-2-2-1024x768](https://user-images.githubusercontent.com/47224557/174450068-9941cb58-94be-4635-be5e-800ed17f1926.png)
+
 
 # Hotel management application
 User management this user will only be able to see and execute the actions that are linked to this group
