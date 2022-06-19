@@ -1,6 +1,8 @@
 ![az-removebg-preview](https://user-images.githubusercontent.com/47224557/174450224-6a13a70e-e341-479e-8182-6d631e92f21f.png)
 
 
+
+
 # Welcome to the Azienda Solution organization
 
 Azienda is a group of developers who provide you with a set of services and solutions to optimize your business.
@@ -9,7 +11,8 @@ Azienda is a group of developers who provide you with a set of services and solu
 
 ### Stock management application - From customers
 https://www.youtube.com/watch?v=9zvMDAdPNJE&feature=youtu.be
-![0](https://user-images.githubusercontent.com/47224557/174450010-deb0c008-13fb-4de3-bcc0-ec6fb4ab537c.jpg)
+
+![unity1-1](https://user-images.githubusercontent.com/47224557/174466677-821603b1-63bb-4aa4-b190-886919ea5f28.png)
 
 
 ### Staff management software
@@ -30,7 +33,7 @@ Features:
 - School management, Payment invoices, Teacher classes
 
 
-![Solutions-2-2-1024x768](https://user-images.githubusercontent.com/47224557/174450068-9941cb58-94be-4635-be5e-800ed17f1926.png)
+![Solutions-2-3-1024x768](https://user-images.githubusercontent.com/47224557/174466688-c4db622c-c739-4207-8e75-0c062846a6ad.png)
 
 
 ### Hotel management application
@@ -40,6 +43,8 @@ Reservations Management create and modify reservations and as a reservation we h
 Summary of reservations: Dashboard an overview of all reservations within your hotel.
 Chat a chatter for communication between different staff members
 Reporting: reservation, the list of reservations, the customer's card and much more in pdf, in xls or the pivot table of reservations
+
+![3-1-1024x488](https://user-images.githubusercontent.com/47224557/174466681-18f9d4e9-ea3a-44b8-a85d-20465ef04d04.jpg)
 
 
 ## Our services
