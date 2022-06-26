@@ -1,7 +1,5 @@
 ### Hi there 👋                ⚡       <a href="https://azienda-solution.com/" target="_blank"> https://azienda-solution.com/ </a>      ⚡
 
-Here are some ideas to get you started:
-
 <p align='center'>Un ensemble de solutions métiers, des services et de l’innovation pour optimiser votre entreprise Web💙 and Mobile💛. <img src="https://gpvc.arturio.dev/jideguru" /></p>
 
 <p align='center'>
