@@ -85,30 +85,32 @@ Azienda is a group of developers who provide you with a set of services and solu
 ## Our solutions
 
 ### Stock management application - From customers
-https://www.youtube.com/watch?v=9zvMDAdPNJE&feature=youtu.be
+<a href="https://www.youtube.com/watch?v=9zvMDAdPNJE&feature=youtu.be">
 
-![unity1-1](https://user-images.githubusercontent.com/47224557/174466677-821603b1-63bb-4aa4-b190-886919ea5f28.png)
-
+![unity1-1](https://azienda-solution.com/wp-content/uploads/2022/06/Solutions-1.png)
+</a>
 
 ### Staff management software
-https://www.youtube.com/watch?v=pRy9CcBXKHI&feature=youtu.be
-![erp-3](https://user-images.githubusercontent.com/47224557/174450212-7c6c94a7-cbf4-4cea-a7d0-5f0688feac0b.png)
-
+<a href="https://www.youtube.com/watch?v=pRy9CcBXKHI&feature=youtu.be">
+![erp-3](https://i.ibb.co/yynfHjm/task.png)
+  </a>
 
 ### Employee task management app
-https://www.youtube.com/watch?v=pRy9CcBXKHI&feature=youtu.be
+<a href="https://www.youtube.com/watch?v=pRy9CcBXKHI&feature=youtu.be">
 
-![maxresdefault](https://user-images.githubusercontent.com/47224557/174449930-d2465b58-fd62-41cd-8225-738b860e3be9.jpg)
-
+![maxresdefault](https://trouver-un-candidat.com/wp-content/uploads/2022/04/Mockup.png)
+</a>
 
 ### School Management Application
 Features: 
 - Student management 
 - User management 
 - School management, Payment invoices, Teacher classes
+<a href="https://www.youtube.com/watch?v=pRy9CcBXKHI&feature=youtu.be">
 
+![maxresdefault](https://azienda-solution.com/wp-content/uploads/2022/06/Solutions-2-1.png)
+</a>
 
-![Solutions-2-3-1024x768](https://user-images.githubusercontent.com/47224557/174466688-c4db622c-c739-4207-8e75-0c062846a6ad.png)
 
 
 ### Hotel management application
@@ -119,7 +121,6 @@ Summary of reservations: Dashboard an overview of all reservations within your h
 Chat a chatter for communication between different staff members
 Reporting: reservation, the list of reservations, the customer's card and much more in pdf, in xls or the pivot table of reservations
 
-![3-1-1024x488](https://user-images.githubusercontent.com/47224557/174466681-18f9d4e9-ea3a-44b8-a85d-20465ef04d04.jpg)
 
 
 ## Our services
