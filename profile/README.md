@@ -92,7 +92,6 @@ Azienda is a group of developers who provide you with a set of services and solu
 
 ### Staff management software
 <a href="https://www.youtube.com/watch?v=pRy9CcBXKHI&feature=youtu.be">
-![erp-3]
   <img src="https://i.ibb.co/yynfHjm/task.png"/>
   </a>
 
