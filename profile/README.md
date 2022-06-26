@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 </p>
 
 <hr/>
-<img src="https://i.ibb.co/X3Wwt6P/git.png" width="100%"/>
+<img src="https://i.ibb.co/X807hK4/git.png" width="100%"/>
 
 <hr/>
