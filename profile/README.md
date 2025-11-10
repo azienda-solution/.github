@@ -24,9 +24,6 @@
 </p>
 
 <hr/>
-<img src="https://github.com/azienda-solution/.github/raw/support/53-min.png" style="width:100%;"/>
-
-<hr/>
 <h1 style="color: #5e9ca0;"><span style="color: #ff9900;">Nos outils</span> <span style="color: #000000;">et</span> <span style="color: #33cccc;">technologies</span></h1>
 
 
